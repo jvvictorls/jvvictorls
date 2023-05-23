@@ -1,6 +1,4 @@
-<style>
-  background-color:black;
-</style>
+
 Olá Mundo! 
 
 <!--
