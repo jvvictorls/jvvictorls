@@ -7,6 +7,8 @@
 
 ![jvvictorls's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvvictorls&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvvictorls)](https://github.com/jvvictorls/github-readme-stats)
+
 
 ## Tecnologias que uso no meu dia-a-dia
 <div style="display: inline_block"><br/>
